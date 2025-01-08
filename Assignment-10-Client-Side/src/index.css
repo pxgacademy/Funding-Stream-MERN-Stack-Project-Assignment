@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Aclonica&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  @apply transition-colors duration-100;
+}
+
+nav .active {
+  color: rgb(255, 88, 97);
+  border: 1px solid #ff5861;
+}
+
+#homeBanner {
+  animation: BgAnimation 25s linear infinite;
+}
+
+@keyframes BgAnimation {
+  0%,
+  100% {
+    background-image: url("https://i.ibb.co.com/mrpdXbp/1.png");
+  }
+  20% {
+    background-image: url("https://i.ibb.co.com/wptxSVL/2.png");
+  }
+  40% {
+    background-image: url("https://i.ibb.co.com/Z8txCd1/3.webp");
+  }
+  60% {
+    background-image: url("https://i.ibb.co.com/ss62YY5/4.png");
+  }
+  80% {
+    background-image: url("https://i.ibb.co.com/nb6hQzr/5.jpg");
+  }
+}

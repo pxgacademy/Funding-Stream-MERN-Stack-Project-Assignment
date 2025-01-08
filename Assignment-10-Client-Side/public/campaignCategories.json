@@ -1,0 +1,60 @@
+[
+  {
+    "id": "r1b1",
+    "title": "Rewards-Based Crowdfunding",
+    "description": "Rewards-based crowdfunding involves individuals contributing to your project in exchange for a non-monetary reward. This could be anything from a thank-you note to the finished product. This type is often used for creative projects, such as films, music albums, or new products.",
+    "benefits": "Provides backers with a tangible reward, creating a sense of ownership.",
+    "considerations": "Requires fulfilling promises which can be costly and time-consuming if not planned well.",
+    "conditions": {
+      "Campaign Description": "Provide a detailed description of the project and the rewards offered at different pledge levels.",
+      "Reward Fulfillment Timeline": "Specify the estimated delivery dates for each reward.",
+      "Update Requirements": "Regular updates to backers on the progress of the project.",
+      "Transparency": "Clear explanation of how funds will be used.",
+      "Refund Policy": "Outline the conditions under which backers can request refunds."
+    }
+  },
+  {
+    "id": "e2b2",
+    "title": "Equity-Based Crowdfunding",
+    "description": "Equity-based crowdfunding allows individuals to invest in your business in exchange for equity or shares. This means that contributors become part-owners of your company and may benefit financially if the company succeeds.",
+    "benefits": "Attracts serious investors and raises significant capital.",
+    "considerations": "Dilutes ownership and requires adherence to securities regulations.",
+    "conditions": {
+      "Business Plan": "Detailed business plan outlining the project's objectives, market analysis, and financial projections.",
+      "Investment Terms": "Clear terms regarding equity distribution and investor rights.",
+      "Regulatory Compliance": "Ensure compliance with securities regulations and disclosure requirements.",
+      "Investor Updates": "Regular financial and progress reports to investors.",
+      "Minimum Investment": "Define minimum and maximum investment amounts.",
+      "Ownership Structure": "Information on how equity will be distributed among investors."
+    }
+  },
+  {
+    "id": "d3b3",
+    "title": "Donation-Based Crowdfunding",
+    "description": "Donation-based crowdfunding involves individuals donating small amounts of money to support a cause or project without expecting any return. This type is commonly used for charitable, social, or personal causes.",
+    "benefits": "No obligation to return the money; perfect for causes and charity.",
+    "considerations": "Relies heavily on the emotional appeal of the cause.",
+    "conditions": {
+      "Cause Description": "Clear and compelling description of the cause or project.",
+      "Fund Allocation": "Detailed breakdown of how the donations will be used.",
+      "Transparency": "Regular updates and transparency about how funds are being spent.",
+      "Thank You Notes": "Personal thank you notes or acknowledgments to donors.",
+      "No Expectations": "Clearly state that donors should not expect any financial return or rewards."
+    }
+  },
+  {
+    "id": "d4b4",
+    "title": "Debt-Based Crowdfunding",
+    "description": "Debt-based crowdfunding, also known as peer-to-peer (P2P) lending, involves individuals lending money to a business or individual with the expectation of being repaid with interest. This is similar to a traditional loan but is often faster and easier to obtain.",
+    "benefits": "Access to capital without giving up equity.",
+    "considerations": "Requires repayment with interest, which can be a financial burden if the project does not generate expected returns.",
+    "conditions": {
+      "Loan Terms": "Clear terms regarding interest rates, repayment schedule, and default conditions.",
+      "Creditworthiness": "Information on the borrower's creditworthiness and risk assessment.",
+      "Repayment Plan": "Detailed repayment plan outlining how and when the loan will be repaid.",
+      "Interest Disclosure": "Full disclosure of interest rates and any additional fees.",
+      "Use of Funds": "Explanation of how the borrowed funds will be used.",
+      "Default Policy": "Outline the procedures in case of loan default."
+    }
+  }
+]
