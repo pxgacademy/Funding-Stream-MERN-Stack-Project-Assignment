@@ -1,29 +1,3 @@
-## Attention to the examiner.
-
-Use these emails for getting better performance and user experience at the time of testing.
-
-- alice-green@example.com
-- john-doe@example.com
-- emma-brown@example.com
-- david-johnson@example.com
-- sophia-white@example.com
-
-- password: Aa12345!
-
----
-
-## Have different conditions for owner and user.
-
-- If user, can only perk the campaign.
-- if owner, can edit and delete campaign.
-- owner can't perk campaign.
--
-- My Campaigns, and My Donations are in the Dashboard page.
--
-- Sometimes slider images don't download for the highest resolution in the Home page. (Please! reload the page)
-
----
-
 # Funding Stream
 
 **Funding Stream** is a modern crowdfunding platform that empowers individuals, businesses, and organizations to raise funds for various projects and causes. Our platform supports four distinct crowdfunding types: **Rewards-Based**, **Equity-Based**, **Donation-Based**, and **Debt-Based**, allowing creators to choose the model that best suits their needs. Whether you’re launching a new product, raising money for a charitable cause, seeking investments for your business, or borrowing funds with a repayment plan, Funding Stream provides all the tools you need to succeed.
